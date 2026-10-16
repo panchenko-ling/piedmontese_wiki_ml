@@ -1,6 +1,29 @@
+# Python
 __pycache__/
 *.pyc
+
+# Jupyter / Colab
 .ipynb_checkpoints/
-.DS_Store
+
+# Data, models and results (published on Hugging Face, not here)
+*.jsonl
+*.csv
+*.bz2
+*.safetensors
+*.bin
+*.ckpt
+hf_cache/
+models/
+metrics/
+translations/
+wiki_mined/
+
+# Environments and secrets
 venv/
+.venv/
 .env
+*.token
+
+# OS
+.DS_Store
+Thumbs.db
