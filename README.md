@@ -49,12 +49,13 @@ Training and evaluation need a GPU. The metrics notebook runs in separate sessio
 ```bibtex
 @inproceedings{panchenko2026metrics,
   author    = {Panchenko, Yulia},
-  title     = {When metrics miss the language: Machine translation evaluation for {P}iedmontese},
-  booktitle = {Proceedings of the Twelfth Italian Conference on Computational Linguistics (CLiC-it '26)},
+  title     = {When metrics miss the language: {M}achine translation evaluation for {P}iedmontese},
+  booktitle = {Proceedings of the Twelfth Italian Conference on Computational Linguistics},
+  series    = {CLiC-it '26},
   address   = {Palermo, Italy},
   publisher = {CEUR Workshop Proceedings},
   year      = {2026},
-  note      = {Forthcoming}
+  pubstate  = {forthcoming},
 }
 
 @mastersthesis{panchenko2026thesis,
